@@ -67,6 +67,8 @@
 
 5. SHA-3 accelerator
 
+6. IC contest Finals
+
 # Advanced system level design
 >SRAM and DRAM also consideration of Memory Hierachy is needed afterward.
 1. Pipelined RISC-V Processor with memory Hierarchy and Branch predictor
