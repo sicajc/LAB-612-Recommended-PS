@@ -78,9 +78,11 @@
 
 3. Hardware Accelerator for Genetic Algorithm
 
-4. IC Lab Projects
+4. IC Lab Mid and Final Projects
 
 #  SOC and advanced processor
+> Test your design on FPGA
+
 1. AXI Stream and AMBA arhictecture
 
 2. Super-Scalar OoO RISC-V processor with F-extension
