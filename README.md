@@ -5,6 +5,7 @@
 4. The code you created must be synthesizable<br />
 5. DATAPATH AND CONTROLPATH HAS TO BE PROVIDED <br />
 6. You must provide your system diagram <br />
+7. Must have good Naming Conventions<br />
 
 # Combinational Logic and Sequential Logic
 
@@ -35,7 +36,7 @@
 
 5. RTL GCD algorithm
 
-# Small IP design
+# Small IP design (After this Level you can discuss and do these projects together)
 
 1. IC contest Geofence
 
@@ -56,7 +57,7 @@
 
 5. QR-Cordic
 
-# System Level Design
+# System Level Design(You have to consider the efficiency and make tradeoff of your HW after this point)
 1. Multicycle MIPS processor with Ideal memory
 
 2. Sudoku
@@ -71,9 +72,9 @@
 
 # Advanced system level design
 >SRAM and DRAM also consideration of Memory Hierachy is needed afterward.
-1. Pipelined RISC-V Processor with memory Hierarchy and Branch predictor
+1. Pipelined RISC-V Processor with memory Hierarchy, SRAM and Caches + Memory Controller, Branch predictor and Exception Handling mechanism.
 
-2. AlexNet CNN Accelerator with caches
+2. AlexNet CNN Accelerator with Memory Hierarchy
 
 3. Hardware Accelerator for Genetic Algorithm
 
