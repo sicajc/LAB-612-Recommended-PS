@@ -80,7 +80,7 @@
 
 4. IC Lab Mid and Final Projects
 
-#  SOC and advanced processor
+#  SOC and advanced processor or you can start writing your Thesis
 > Test your design on FPGA
 
 1. AXI Stream and AMBA arhictecture
