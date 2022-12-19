@@ -1,4 +1,4 @@
-# LAB612 Hardware Tranining problem Sets
+# LAB612 Hardware Training problem Sets
 1. Every hardware you design must has its datapath drawn and with detailed description about how you do it.<br />
 2. You have to give a report about your hardware design and verification process all the way from algorithm to synthesis.<br />
 3. You have to write your own testbenches for your own circuit<br />
@@ -25,6 +25,8 @@
 
 3. Traffic Light Controller
 
+4. LIFO
+
 # Partitioned design(Datapath and controlpath partitioning)
 1. Vending Machine
 
@@ -35,6 +37,8 @@
 4. BubbleSort RTL
 
 5. RTL GCD algorithm
+
+6. Circular FIFO
 
 # Small IP design (After this Level you can discuss and do these projects together)
 
