@@ -93,7 +93,7 @@
 
 2. Super-Scalar OoO RISC-V processor with F-extension
 
-3. Full Hardware Accelerator Design with Memory Hierarchy and Processor on FPGA
+3. AI Accelerator Design with Memory Hierarchy and Processor on FPGA (Eyeriss,ShiDianNao,Gemmini) etc....
 
 4. Multi-Core Processors with Shared memory system and memory controller
 
