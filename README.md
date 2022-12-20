@@ -7,7 +7,7 @@
 6. You must provide your system diagram <br />
 7. Must have good Naming Conventions<br />
 
-# Combinational Logic and Sequential Logic
+# Combinational Logic and Sequential Logic(You have to pass Gate Level Simulation)
 
 1. Parametrizable N-bit Carry look Ahead adder
 
@@ -61,12 +61,14 @@
 
 5. QR-Cordic
 
-# System Level Design(You have to consider the efficiency and make tradeoff of your HW after this point)
+6. Connect6 on FPGA
+
+# System Level Design(You have to consider the efficiency and make tradeoff of your HW after this point also add APR)
 1. Multicycle MIPS processor with Ideal memory
 
-2. Sudoku
+2. RTL Sudoku
 
-3. 8-Queens problem
+3. RTL 8-Queens problem
 
 4. Most IC lab exercises
 
@@ -85,7 +87,7 @@
 4. IC Lab Mid and Final Projects
 
 #  SOC and advanced processor or you can start writing your Thesis
-> Test your design on FPGA
+> Test your design on ZYNQ-FPGA for IP reuse
 
 1. AXI Stream and AMBA arhictecture
 
@@ -94,3 +96,5 @@
 3. Full Hardware Accelerator Design with Memory Hierarchy and Processor on FPGA
 
 4. Multi-Core Processors with Shared memory system and memory controller
+
+5. AES Encryption Engine
